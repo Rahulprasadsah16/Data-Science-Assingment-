@@ -1,0 +1,49 @@
+1. Pyhthon programming language devloped by 'Guido van Rossum'.
+
+2. Python supports multiple programming paradigms, including structured, object-oriented and functional programming. 
+
+3. Yes, python is a case sensitive language when dealing with identifiers. 
+
+4. .py is the correct extension of python file. 
+
+5. Python code both compiled and interprated. 
+
+6. if (condition):
+    # Statement 1
+    # Statement 2
+    # Statement 3
+  else:
+    # Statement 4
+    # Statement 5
+    # Statement 6
+
+7. # Print method to print text
+   print("Hello World!"); 
+
+8. To check we need to enter command in window powershell " python --version". 
+
+9. Python supports the creation of anonymous functions at runtime, using a construct called lambda.
+
+10. pip is a package manager for Python packages, or modules.
+
+11. Few built in functions in python are :
+     len(), list(), isupper(), islower(), int(), input(), dict(). 
+
+12. The maximum possible length of an identifier is 79 characters in python. 
+
+13. Benefits of python are :
+    Extensive support libraries.
+    Versatile, Easy to read, learn and write.
+    High-level language.
+    Portable and Interactive.
+    Open source and large active community base.
+    Object-Oriented and Procedural  Programming language.
+
+14. Memory managed in python using 'Grabage collection'. It is a process in which the interpreter frees up the memory when not in use to make it available for other objects. 
+
+15. For install python simply click download from python site, and follow up the process. 
+    For set path variavle :
+     click python at start ---> on right click 'open file location' ---> copy path  ---> search enviroment variables at start ---> click Enviroment variable button in it. ---> There will be two categories namely “User” and “System”, we have to add it in Users, click on New button in the User section. Now, add a Variable Name and Path which we copied previously and click OK. That’s it, DONE!
+
+16. Yes, Indentation required in python, else python throw intentation error. 
+
